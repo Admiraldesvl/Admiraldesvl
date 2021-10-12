@@ -1,4 +1,4 @@
-Mathematics.
+Mathematics. Below are my recent posts on my [blog](https://desvl.xyz). You may also want to subscribe to my [newsletter](https://www.getrevue.co/profile/desvl_).
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->

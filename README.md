@@ -4,9 +4,9 @@ He only uses this account to maintain his blog, which is automated most of the t
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hensel&#39;s Lemma - A Fair Application of Newton&#39;s Method and &#39;Double Induction&#39;](https://desvl.xyz/2022/08/21/hensel-lemma-newton/)
 - [Irreducible Representations of GL_2&lpar;F_q&rpar;](https://desvl.xyz/2022/08/12/rep-gl2-fq/)
 - [Segre Embedding And Heights](https://desvl.xyz/2022/07/26/segre-embedding-et-height/)
 - [The Calculus of Fields - Absolute Values](https://desvl.xyz/2022/06/30/calculus-field-01/)
 - [Irreducible Representations of SO&lpar;3&rpar; and the Laplacian](https://desvl.xyz/2022/06/16/so3-laplacian/)
-- [Study Irreducible Representations of SU&lpar;2&rpar; Using Fourier Series](https://desvl.xyz/2022/05/08/rep-SU2/)
 <!-- BLOG-POST-LIST:END -->

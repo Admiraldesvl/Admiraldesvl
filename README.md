@@ -4,9 +4,9 @@ He only uses this account to maintain his blog, which is automated most of the t
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The abc Theorem of Polynomials](https://desvl.xyz/2022/12/02/The-abc-Theorem-of-Polynomials/)
 - [A Step-by-step of the Analytic Continuation of the Riemann Zeta Function](https://desvl.xyz/2022/11/24/riemann-zeta-continuation/)
 - [Properties of Cyclotomic Polynomials](https://desvl.xyz/2022/09/22/cyclotomic-polynomial-elementary/)
 - [Calculus on Fields - Heights of Polynomials, Mahler&#39;s Measure and Northcott&#39;s Theorem](https://desvl.xyz/2022/09/04/height-polynomial/)
 - [Hensel&#39;s Lemma - A Fair Application of Newton&#39;s Method and &#39;Double Induction&#39;](https://desvl.xyz/2022/08/21/hensel-lemma-newton/)
-- [Irreducible Representations of GL_2&lpar;F_q&rpar;](https://desvl.xyz/2022/08/12/rep-gl2-fq/)
 <!-- BLOG-POST-LIST:END -->

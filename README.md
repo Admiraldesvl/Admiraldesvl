@@ -1,6 +1,6 @@
 Mathematics. Below are my recent posts on my [blog](https://desvl.xyz). You may also want to subscribe to my [newsletter](https://desvl.substack.com/).
 
-He only uses this account to maintain his blog, which is automated most of the time; hence he may not see Github activity frequently. If you have important business, consider sending a email (which can be found in the blog; if I publish it here then I will be spammed real quick)
+The only purpose of this GitHub account is to maintain this blog, and the maintainence is automated most of the time; hence he may not see Github activity frequently. If you have important business, consider sending an email (which can be found in the blog; if I publish it here then I will be spammed real quick)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->

@@ -4,9 +4,9 @@ The only purpose of this GitHub account is to maintain this blog, and the mainta
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [On the Boyd–Deninger polynomial x+1/x+y+1/y+1, pt. I - The curve](https://desvl.xyz/2025/12/30/boyd-deninger/)
 - [Boolean ring and algebraic numbers](https://desvl.xyz/2025/10/13/boolean/)
 - [Artin-Schreier Extensions](https://desvl.xyz/2025/05/16/artin-schreier/)
 - [Equivalent Conditions of Regular Local Rings of Dimension 1](https://desvl.xyz/2025/05/11/regular-local-ring/)
 - [The Structure of SL_2&lpar;F_3&rpar; as a Semidirect Product](https://desvl.xyz/2023/11/11/sl2-f3/)
-- [A Separable Extension Is Solvable by Radicals Iff It Is Solvable](https://desvl.xyz/2023/10/21/solvable-by-radical/)
 <!-- BLOG-POST-LIST:END -->
